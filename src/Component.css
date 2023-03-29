@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(49, 49, 49);
+    color: rgb(148, 148, 255);
+}
+h1{
+    margin: 21px 0px;
+}
+p{
+    margin-bottom: 12px;
+    color: white;
+}
+span{
+    color: rgb(255, 255, 255);
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
